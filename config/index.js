@@ -9,13 +9,12 @@ module.exports = {
   },
 
   MAIL_FORM: '"Lokep" <iamlokep@163.com>',
-  MAIL_TO: 'tnlou@justhealth.cn', // //'937343460@qq.com', // 
-  MAIL_SUBJECT: 'TO Miss.Zhou',
+  MAIL_TO: "zhou.danyan@xiziuhc.com",
+  MAIL_SUBJECT: "TO Miss.Zhou",
 
-
-  MAIL_HOUR: 16,// 9,
-  MAIL_MINUTE: 32,
+  MAIL_HOUR: 9,
+  MAIL_MINUTE: 30,
 
   ONE_URL: "http://wufazhuce.com/",
-  WEATHER: "https://tianqi.moji.com/weather/china/zhejiang/hangzhou"
+  WEATHER: "https://tianqi.moji.com/weather/china/zhejiang/hangzhou",
 };
