@@ -32,8 +32,6 @@ async function scheduleCallback() {
       model.todayOneData = one;
       model.weatherTip = tip;
       model.threeDaysData = threeDaysData;
-      
-      console.log(model)
     
       sendMail(model);
     }
