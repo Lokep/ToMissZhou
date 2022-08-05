@@ -13,8 +13,8 @@ module.exports = {
   MAIL_SUBJECT: 'TO Miss.Zhou',
 
 
-  MAIL_HOUR: 9,
-  MAIL_MINUTE: 30,
+  MAIL_HOUR: 16,// 9,
+  MAIL_MINUTE: 32,
 
   ONE_URL: "http://wufazhuce.com/",
   WEATHER: "https://tianqi.moji.com/weather/china/zhejiang/hangzhou"

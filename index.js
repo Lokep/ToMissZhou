@@ -40,7 +40,7 @@ async function scheduleCallback() {
   
 }
 
-// scheduleJob(getScheduleRule(), scheduleCallback);
+scheduleJob(getScheduleRule(), scheduleCallback);
 
 
-scheduleCallback()
+// scheduleCallback()
