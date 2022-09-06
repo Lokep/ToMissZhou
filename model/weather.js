@@ -59,7 +59,6 @@ function getWeatherData() {
       resolve(threeDaysData);
     });
   });
-  return p;
 }
 
 module.exports = {
