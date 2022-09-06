@@ -4,13 +4,13 @@ module.exports = {
 
   // 发送者邮箱账户SMTP授权码
   MAIL_AUTH: {
-    user: "iamlokep@163.com",
-    pass: "WAWSNSDWEMJKDTNJ",
+    user: "",
+    pass: "",
   },
 
-  MAIL_FORM: '"Lokep" <iamlokep@163.com>',
-  MAIL_TO: "zhou.danyan@xiziuhc.com",
-  MAIL_SUBJECT: "TO Miss.Zhou",
+  MAIL_FORM: '',
+  MAIL_TO: "",
+  MAIL_SUBJECT: "",
 
   MAIL_HOUR: 9,
   MAIL_MINUTE: 30,
